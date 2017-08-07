@@ -1,14 +1,15 @@
-Here are some loose guidlines meant to give you an idea of what information we expect to find in each repository. Feel free to present your documentation in the most accessible/suitable order and style but you **must** include project data relating to the headings below, if relevant to your project. Also, include your final proposal in the top directory.
-
-[**A very good example**](https://github.com/Biological-Microsystems-Laboratory/micropipette)
-
-Consider using [GitHub for desktop](https://desktop.github.com/), the user interface and experience is so much better than the web version of Github, in my opinion.
-
-Lastly, follow [these](https://pages.github.com/) instructions if you want to style your github repository into a webpage like [so](https://biomakers.github.io/Example-repo/).
-
 ## Synopsis
+background-image: url(image.jpg)
 
-A summary of your project. This is the 150 word description from your proposal. Include your project banner and photos of team members.
+![Dr. Pahini Pandya](Team/Pahini_Pandya.jpg "Pahini Pandya")
+
+![Dr. Emre Ozer](Team/Emre_Ozer.jpg "Dr. Emre Ozer")
+
+![Tanya Hutter](Team/Tanya_Hutter.jpg "Tanya Hutter")
+
+![Varun Kothamachu](Team/Varun_Kothamachu.jpg "Varun Kothamachu")
+
+This proposal is for developing a programmable staging mount, and an imaging platform for a microfluidics based conditioned learning hub for motile bacterial cells. By developing a maze traversal challenge, we aim to create different scenarios for chemotactic bacterial colonies to employ their decision-making machinery and navigate their way out of the maze. By isolating successful colonies and progressing them further to solve more complex mazes, we aim to identify strains of bacteria which are good at solving maze traversing puzzles. The potential learning from this could lead to an understanding of cognition, memory and learning in bacterial colonies. In addition to this, by measuring complexity level of each of the maze designs, we hope to arrive at an understanding of a bacterial colony’s ability to learn from its experience of solving maze traversal puzzles. 
 
 ## Software
 
