@@ -1,5 +1,5 @@
 ## Synopsis
-background-image: url(image.jpg)
+background-image: url(Team/Team_banner.jpg)
 
 ![Dr. Pahini Pandya](Team/Pahini_Pandya.jpg "Pahini Pandya")
 
