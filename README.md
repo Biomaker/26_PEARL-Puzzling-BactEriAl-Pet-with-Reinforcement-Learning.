@@ -1,5 +1,5 @@
 ## Synopsis
-![Team Banner](Team/Team_banner.jpg "Team Banner")
+![Team Banner](Team/Team_banner.png "Team Banner")
 
 ![Dr. Pahini Pandya](Team/Pahini_Pandya.jpg "Pahini Pandya") ![Dr. Emre Ozer](Team/Emre_Ozer.jpg "Dr. Emre Ozer")
 
