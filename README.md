@@ -14,7 +14,7 @@ Design files for the chip holding base plate and its surrounding support mount c
 
 ## Installation, Maintenance and Testing Guide
 
-Using the design files in the Hardware folder, you can print the two parts. The chip holding base plate and the surrounding support frame. Once they are printed, the base plate snugly fits into the surrounding base plate.
+Using the design files in the Hardware folder, you can print the two parts, i.e. the chip holding base plate and the surrounding support frame. Once they are printed, the base plate snugly fits into the surrounding base plate.
 
 ## License
 
