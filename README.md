@@ -1,7 +1,8 @@
 ![Team Banner](Team/Team_banner.jpg "Team Banner")
 
-![Dr. Pahini Pandya](Team/Pahini_Pandya.jpg "Pahini Pandya") ![Dr. Emre Ozer](Team/Emre_Ozer.jpg "Dr. Emre Ozer")
-![Tanya Hutter](Team/Tanya_Hutter.jpg "Tanya Hutter") ![Varun Kothamachu](Team/Varun_Kothamachu.jpg "Varun Kothamachu")
+![Varun Kothamachu](Team/Varun_Kothamachu.jpg "Varun Kothamachu")
+![Dr. Emre Ozer](Team/Emre_Ozer.jpg "Dr. Emre Ozer")
+![Tanya Hutter](Team/Tanya_Hutter.jpg "Tanya Hutter")
 
 ## Synopsis
 
